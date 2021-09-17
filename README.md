@@ -7,6 +7,6 @@ In each folder there is a readme-file providing further details, such as skills 
 # Projects:
 
 ## UKAccidents2019
+Exploratory Data Analysis & Visualizations (Plots & Map)
 - **Dataset:** Accidents that happend in the UK in 2019
 - **Languages used:** R
-- Exploratory Data Analysis & Visualizations (Plots & Map)
