@@ -1,4 +1,4 @@
-# Readme for UKAccidents2019
+# Readme for Covid19
 
 This is an example of a short exploratory data analysis using SQL and Tableau
 
