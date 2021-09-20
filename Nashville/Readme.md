@@ -12,10 +12,8 @@ I clean the data in the following ways:
 
 ## Files:
 
-- **EDA_Covid_SQL.sql:** SQL Code for EDA
-- **covidDeaths.xlsx:** Excel file containing the raw data (1 of 2)
-- **covidVaccinations.xlsx:** Excel file containing the raw data (2 of 2)
-- **Tableau:** please refer here https://public.tableau.com/app/profile/oliverfr94/viz/CovidDashboard_16309378210690/Dashboard1
+- **Nashville Housing Data for Data Cleaning.xlsx:** Excel file containing the raw data
+- **Nashville_DataCleaning.sql:** Sql code for data cleaning
 
 ## Skills used:
 
