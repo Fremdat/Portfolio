@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository contains several folders with examplatory data analysis related projects. Below you can find details on each project including the programming language(s) used and the content.
+This repository contains several folders with examplatory data analysis related projects. Below you can find details on each project including the programming language(s) and tools used as well as the content.
 
 In each folder there is a readme-file providing further details, such as skills employed, a description of the files and a short summary.
 
