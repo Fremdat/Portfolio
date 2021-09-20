@@ -16,6 +16,11 @@ Data Cleaning
 - **Dataset:** Nashville Housing Data
 - **Languages/Tools used:** SQL
 
+## StudentsPerformance
+Feature Engineering & Exploratory Data Analysis
+- **Dataset:** Student Performance and Characteristics
+- **Languages/Tools used:** Python (Jupyter Notebooks)
+
 ## UKAccidents2019
 Exploratory Data Analysis & Visualizations (Plots & Map)
 - **Dataset:** Accidents that happend in the UK in 2019
