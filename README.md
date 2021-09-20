@@ -11,7 +11,13 @@ Exploratory Data Analyis & Visualizations
 - **Dataset:** Covid 19 Deaths & Vaccinations
 - **Languages/Tools used:** SQL, Tableau
 
+## Nashville
+Data Cleaning
+- **Dataset:** Nashville Housing Data
+- **Languages/Tools used:** SQL
+
 ## UKAccidents2019
 Exploratory Data Analysis & Visualizations (Plots & Map)
 - **Dataset:** Accidents that happend in the UK in 2019
 - **Languages/Tools used:** R
+
